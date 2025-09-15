@@ -14,5 +14,8 @@ Desenvolvedor Front-End <br>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=GYOPIVA">
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=GYOPIVA&show_icons=true&theme=dark#gh-dark-mode-only">
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYOPIVA&show_icons=true&theme=dark#gh-dark-mode-only">
+</div>
 
