@@ -1,5 +1,8 @@
 ## Olá prazer! Me chamo Giovany Piveta👋
 
+curl https://api.github.com/repos/<GYOPIVA>/languages
+
+
 
 
 
