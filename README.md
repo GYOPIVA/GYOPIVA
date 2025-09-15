@@ -1,5 +1,4 @@
-## OLÁ PRAZER! ME CHAMO GIOVANY PIVETA👋
-## E ESTE É MEU GITHUB!
+## Olá prazer! Me chamo Giovany Piveta👋
 
 
 
