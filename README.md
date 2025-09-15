@@ -1,5 +1,5 @@
-<h1>Olá prazer! Me chamo Giovany Piveta👋</h1> 
-Desenvolvedor Front-End <br>
+<h2>Olá prazer! Me chamo Giovany Piveta👋</h2> 
+<h3>Desenvolvedor Front-End</h3>
 - 🔭 Atualemte trabalho no setor administrativo na prefeitura de osasco <br>
 - 🌱 Aprendedo HTML5, CSS3, JAVASCRIPT e GIT <br>
 - 👾 Desenvolvimento de Projetos 
