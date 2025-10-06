@@ -1,8 +1,10 @@
 <h2>Olá prazer! Me chamo Giovany Piveta👋</h2> 
 <h3>Desenvolvedor Front-End</h3>
-- 🔭 Atualemte trabalho no setor administrativo na prefeitura de osasco <br>
-- 🌱 Aprendedo HTML5, CSS3, JAVASCRIPT e GIT <br>
-- 👾 Desenvolvimento de Projetos 
+<ul>
+  <li>🔭 Atualemte trabalho no setor administrativo na prefeitura de osasco</li>
+  <li>🌱 Aprendedo HTML5, CSS3, JAVASCRIPT e GIT</li>
+  <li>👾 Desenvolvimento de Projetos</li>
+</ul>
 <div>
   <a href="https://www.linkedin.com/in/giovany-da-silva-piveta-179286383/" target="_blank"><img width="50" height="50" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 </div>
