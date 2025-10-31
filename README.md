@@ -2,7 +2,7 @@
 <h3>Desenvolvedor Front-End</h3>
 <ul>
   <li>🔭 Atualemte trabalho no setor administrativo na prefeitura de osasco</li>
-  <li>🌱 Aprendedo HTML5, CSS3, JAVASCRIPT e GIT</li>
+  <li>🌱 Aprendedo HTML5, CSS3, JAVASCRIPT, Node e GIT</li>
   <li>👾 Desenvolvimento de Projetos</li>
 </ul>
 <div>
