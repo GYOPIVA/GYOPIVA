@@ -3,7 +3,7 @@
 #### Desenvolvedor Front-End
 
 - 🔭 Atualmente trabalho no setor administrativo da **Prefeitura de Osasco**
-- 🌱 Estudando **HTML5, CSS3, JavaScript, Node.js e Git**
+- 🌱 Estudando **HTML5, CSS3, JavaScript, React, Node.js e Git**
 - 👾 Desenvolvendo projetos para aprimorar minhas habilidades e construir portfólio
 
 ### 🌐 Conecte-se comigo
