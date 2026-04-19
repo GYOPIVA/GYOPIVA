@@ -1,4 +1,4 @@
-## Olá! É um prazer 👋
+### Olá! É um prazer 👋
 ### Me chamo **Giovany Piveta**
 #### Desenvolvedor Front-End
 
