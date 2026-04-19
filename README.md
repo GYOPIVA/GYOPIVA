@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho no setor administrativo da **Prefeitura de Osasco**
 - 🌱 Estudando **HTML5, CSS3, JavaScript, React, Node.js e Git**
-- 👾 Desenvolvendo projetos para aprimorar minhas habilidades e construir portfólio
+- 👾 Desenvolvendo projetos para aprimorar minhas habilidades
 
 
 ### 🌐 Conecte-se comigo
