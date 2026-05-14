@@ -5,7 +5,7 @@
     <p>🌱 Estudando <strong>HTML5, CSS3, JavaScript, React, Node.js e Git</strong></p>
     <p>👾 Desenvolvendo projetos para aprimorar minhas habilidades</p>
   <h3>🌐 Conecte-se comigo</h3>
-  <a href="https://www.linkedin.com/in/giovany-da-silva-piveta-179286383/" target="_blank">
+  <a href="https://www.linkedin.com/in/giovany-piveta/" target="_blank">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
 </a>
 </div>
