@@ -15,7 +15,7 @@
 <h2 align="center">⭐ Tecnologias e Linguagens</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,react,html,css,bootstrap,nodejs,git,figma,mysql"/>
+    <img src="https://skillicons.dev/icons?i=js,typescript,react,html,css,bootstrap,nodejs,git,figma,mysql,java"/>
   </a>
 </p>
 
